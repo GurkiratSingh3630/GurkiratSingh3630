@@ -4,7 +4,7 @@ I'm a 3rd-year **Applied Computer Science** student at the **University of Winni
 
 - 🔭 Currently building with **Node.js, Express and MongoDB**, and leveling up in **TypeScript** and **C#/.NET**
 - 🗄️ Interested in software engineering, REST APIs and database design (SQL and NoSQL)
-- 🎓 Treasurer of the Applied Computer Science Students' Association (ACSSA)
+- 👨‍🏫 Former programming tutor who taught C, C++ and C# fundamentals
 - 💼 Open to **software developer internships and co-op** roles
 - 🌐 Portfolio: **[gurkiratsingh3630.github.io](https://gurkiratsingh3630.github.io)**
 
